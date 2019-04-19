@@ -1,0 +1,14 @@
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/bin/Debug/Black_Jack_2.0.exe.config
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/bin/Debug/Black_Jack_2.0.exe
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/bin/Debug/Black_Jack_2.0.pdb
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.csprojResolveAssemblyReference.cache
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.exe
+c:/users/peter/documents/visual studio 2012/Projects/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.pdb
+D:/Black_Jack_2.0/Black_Jack_2.0/bin/Debug/Black_Jack_2.0.exe.config
+D:/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.exe
+D:/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.pdb
+/Volumes/COMP SCI/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.csprojResolveAssemblyReference.cache
+/Volumes/COMP SCI/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.csproj.CoreCompileInputs.cache
+/Volumes/COMP SCI/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.exe
+/Volumes/COMP SCI/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.pdb
+/Volumes/COMP SCI/Black_Jack_2.0/Black_Jack_2.0/obj/Debug/Black_Jack_2.0.csprojAssemblyReference.cache
