@@ -1,0 +1,12 @@
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.exe.config
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.pdb
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.csprojResolveAssemblyReference.cache
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.pdb
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.exe.config
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.exe
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.pdb
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.exe
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\bin\Debug\Fourth_two_Weeks_num9.pdb
+C:\Users\Student\Desktop\Fourth_two_Weeks_num9\Fourth_two_Weeks_num9\obj\Debug\Fourth_two_Weeks_num9.csprojResolveAssemblyReference.cache
