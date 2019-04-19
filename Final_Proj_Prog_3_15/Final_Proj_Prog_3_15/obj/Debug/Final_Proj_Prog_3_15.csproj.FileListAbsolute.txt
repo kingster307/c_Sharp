@@ -1,0 +1,6 @@
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\bin\Debug\Final_Proj_Prog_3_15.exe.config
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\bin\Debug\Final_Proj_Prog_3_15.exe
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\bin\Debug\Final_Proj_Prog_3_15.pdb
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\obj\Debug\Final_Proj_Prog_3_15.csprojResolveAssemblyReference.cache
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\obj\Debug\Final_Proj_Prog_3_15.exe
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_15\Final_Proj_Prog_3_15\obj\Debug\Final_Proj_Prog_3_15.pdb
