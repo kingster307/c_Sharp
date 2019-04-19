@@ -1,0 +1,6 @@
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\bin\Debug\Fourth_two_Weeks_num1.exe.config
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\bin\Debug\Fourth_two_Weeks_num1.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\bin\Debug\Fourth_two_Weeks_num1.pdb
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\obj\Debug\Fourth_two_Weeks_num1.csprojResolveAssemblyReference.cache
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\obj\Debug\Fourth_two_Weeks_num1.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num1\Fourth_two_Weeks_num1\obj\Debug\Fourth_two_Weeks_num1.pdb
