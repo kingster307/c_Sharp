@@ -1,0 +1,6 @@
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\bin\Debug\Class_proj_3_Prog3.exe.config
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\obj\Debug\Class_proj_3_Prog3.csprojResolveAssemblyReference.cache
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\bin\Debug\Class_proj_3_Prog3.exe
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\bin\Debug\Class_proj_3_Prog3.pdb
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\obj\Debug\Class_proj_3_Prog3.exe
+E:\class_proj_3\Class_proj_3_Prog3\Class_proj_3_Prog3\obj\Debug\Class_proj_3_Prog3.pdb

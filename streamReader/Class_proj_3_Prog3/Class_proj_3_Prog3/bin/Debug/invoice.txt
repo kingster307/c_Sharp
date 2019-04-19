@@ -1,0 +1,15 @@
+
+Invoice: 123456
+ Job Type Alignment
+ cost 67.99
+ Job Completed
+
+Invoice: 123557
+ Job Type Brake Job
+ cost 50
+ Job not Completed
+
+Invoice: 123558
+ Job Type Road Hazzard
+ cost 100
+ Job Completed
