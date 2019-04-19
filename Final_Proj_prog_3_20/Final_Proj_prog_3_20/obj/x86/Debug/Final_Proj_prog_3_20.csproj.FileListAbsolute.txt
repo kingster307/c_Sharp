@@ -1,0 +1,5 @@
+/Users/peterking/Desktop/final_proj_prog_3/Final_Proj_prog_3_20/Final_Proj_prog_3_20/bin/Debug/Final_Proj_prog_3_20.exe
+/Users/peterking/Desktop/final_proj_prog_3/Final_Proj_prog_3_20/Final_Proj_prog_3_20/bin/Debug/Final_Proj_prog_3_20.pdb
+/Users/peterking/Desktop/final_proj_prog_3/Final_Proj_prog_3_20/Final_Proj_prog_3_20/obj/x86/Debug/Final_Proj_prog_3_20.csproj.CoreCompileInputs.cache
+/Users/peterking/Desktop/final_proj_prog_3/Final_Proj_prog_3_20/Final_Proj_prog_3_20/obj/x86/Debug/Final_Proj_prog_3_20.exe
+/Users/peterking/Desktop/final_proj_prog_3/Final_Proj_prog_3_20/Final_Proj_prog_3_20/obj/x86/Debug/Final_Proj_prog_3_20.pdb
