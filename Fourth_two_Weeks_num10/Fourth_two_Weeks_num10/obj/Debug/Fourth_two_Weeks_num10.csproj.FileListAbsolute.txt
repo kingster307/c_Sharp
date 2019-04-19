@@ -1,0 +1,12 @@
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.exe.config
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.exe.config
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.exe
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.pdb
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.exe
+C:\Users\Student\Desktop\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.pdb
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.pdb
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.exe
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\bin\Debug\Fourth_two_Weeks_num10.pdb
+E:\Fourth_two_weeks\Fourth_two_Weeks_num10\Fourth_two_Weeks_num10\obj\Debug\Fourth_two_Weeks_num10.csprojResolveAssemblyReference.cache
