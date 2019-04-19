@@ -1,0 +1,4 @@
+D:/Final_Proj_Prog_3/Final_Proj_Prog_3_10/Final_Proj_Prog_3_10/bin/Debug/Final_Proj_Prog_3_10.exe.config
+/Volumes/WININSTALL/Final_Proj_Prog_3/Final_Proj_Prog_3_10/Final_Proj_Prog_3_10/obj/Debug/Final_Proj_Prog_3_10.csproj.CoreCompileInputs.cache
+E:\Final_Proj_Prog_3\Final_Proj_Prog_3_10\Final_Proj_Prog_3_10\bin\Debug\Final_Proj_Prog_3_10.exe.config
+F:\Final_Proj_Prog_3\Final_Proj_Prog_3_10\Final_Proj_Prog_3_10\bin\Debug\Final_Proj_Prog_3_10.exe.config
